@@ -1,9 +1,9 @@
 # Sign Up Form
 ### A basic Sign-Up Form with Validation
 
-https://deanwagner.github.io/odin_project/signup/
+https://deanwagner.github.io/signup/
 
-![Project Screenshot](https://deanwagner.github.io/odin_project/signup/img/signup-screenshot.png)
+![Project Screenshot](https://deanwagner.github.io/signup/img/signup-screenshot.png)
 
 This project was created for the [Sign-Up Form assignment](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css/lessons/sign-up-form) as part of [The Odin Project](https://www.theodinproject.com) curriculum. I met all the assignment objectives and then expanded on it with my own concepts to make it more functional and user-friendly.
 
