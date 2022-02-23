@@ -1,6 +1,7 @@
 # Sign Up Form
 ### A basic Sign-Up Form with Validation
 
+Live Demo:  
 https://deanwagner.github.io/signup/
 
 ![Project Screenshot](https://deanwagner.github.io/signup/img/signup-screenshot.png)
